@@ -1,0 +1,5 @@
+git clone https://github.com/ltd0215/CodeOfChallenge.git
+git config --global user.email "526155162@qq.com"
+git add 1.txt
+git commit -m beizhu
+git push -u origin master
